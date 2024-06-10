@@ -9,15 +9,52 @@ This module provides theoretical grounding, practical knowledge, and hands on ex
 
 ### The module covers the following core topics:
 • Introduction to speech and audio processing
+
+
+
 • Basic audio processing
+
+
+
+
 • Speech
+
+
+
 • The human auditory system
+
+
+
 • Psychoacoustics
+
+
+
 • Speech communications
+
+
+
 • Audio analysis
+
+
+
 • It also introduces advanced topics and current research within the field of speech and audio processing. For example:
+
+
+
 – Psychoacoustic modelling
+
+
+
 – Speech and Audio Quality
+
+
+
 – Objective models of intelligibility and quality
+
+
+
 – Speaker recognition
+
+
+
 – Spatial audio
